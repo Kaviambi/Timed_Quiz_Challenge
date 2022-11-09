@@ -45,3 +45,6 @@ Here is the screenshot of the completed challenge.
 ![Screenshot_completed](Images/quiz3.JPG)
 ![Screenshot_completed](Images/quiz4.JPG)
 ![Screenshot_completed](Images/quiz5.JPG)
+
+Here is the deployed page - https://kaviambi.github.io/Timed_Quiz_Challenge/
+Here is the GitHub Page - https://github.com/Kaviambi/Timed_Quiz_Challenge.git
