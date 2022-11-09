@@ -1,5 +1,5 @@
 body {
-    background-image: url("./images.jfif");
+    background-image: url("./Images/image.jpg");
 }
 
 /* Color and font family for heading*/
@@ -50,5 +50,5 @@ p {
 
 #answerCheck {
     font-style:oblique;
-    color: #460932;
+    color: #f4eff2;
 }
